@@ -1,0 +1,2 @@
+class InvalidBlockIdentifier(Exception):
+    pass
